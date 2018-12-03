@@ -9,4 +9,8 @@ persika
 plommon
 päron
 satsuma
-sharon
+granatäpple
+grapefrukt
+kaktusfikon
+kumquat
+kiwi
