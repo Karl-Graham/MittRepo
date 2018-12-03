@@ -7,10 +7,11 @@ papaya
 passionsfrukt
 persika
 plommon
-päron
+p?on
 satsuma
-granatäpple
+granat?ple
 grapefrukt
 kaktusfikon
 kumquat
 kiwi
+satsumas
