@@ -10,4 +10,3 @@ plommon
 päron
 satsuma
 sharon
-äpple
